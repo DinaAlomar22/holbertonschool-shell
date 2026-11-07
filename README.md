@@ -1,3 +1,1 @@
-# holbertonschool-shell
-
-Projects about the Linux shell, written for Holberton School.
+# Shell I/O Redirections and Filters
